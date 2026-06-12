@@ -42,17 +42,6 @@
 - **Improved Backgrounds**: Adjustable blur for artwork edges, creating a high-end "Ambient Glow".
 - **Enhanced Radio History**: Persistent storage for the last 10 radio tracks.
 
-## 📸 Screenshots
-*(Add your screenshots here)*
-
-## 📥 Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Fonio.git
-   ```
-2. Open the project in **Android Studio (Ladybug or newer)**.
-3. Build and run on an Android device (API 26+).
-
 ## 👤 Author
 Developed with ❤️ by **DlacEGO**.
 
